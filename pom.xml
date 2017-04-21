@@ -142,7 +142,7 @@
             <version>${mule.version}</version>
             <scope>compile</scope>
         </dependency>
-         <dependency>
+<!--          <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
             <scope>compile</scope>
@@ -152,7 +152,7 @@
                     <groupId>org.springframework.boot</groupId>
                 </exclusion>
             </exclusions>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>org.mule.transports</groupId>
             <artifactId>mule-transport-file</artifactId>
