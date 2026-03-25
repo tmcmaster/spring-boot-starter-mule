@@ -1,35 +1,24 @@
 ---
-project:
-  name: "spring-boot-starter-mule"
-  description: "Spring Boot starter module for embedding MuleSoft in a Spring Boot app." # Escape double quotes in description
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "original"
-  git_url: "https://github.com/tmcmaster/spring-boot-starter-mule"
-  created: "2017-04-21"
-  modified: "2025-05-29"
-
-classification:
-  status: "unsorted"
-  engagement: "shelved"
-  priority: "low"
-  intent: []
-  domain: []
-  audience: "personal"
-
-stack:
-  languages: []
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: []
-
-syntropy_id: ""
-collections: []
-tags: []
+Title: spring-boot-starter-mule
+Description: Spring Boot starter module for embedding MuleSoft in a Spring Boot app.
+Author: Tim McMaster
+Created: '2017-04-21'
+Modified: '2025-05-29'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: original
+Repo-Author: tmcmaster
+Repo-Name: spring-boot-starter-mule
+Intent: []
+Domain: []
+Languages:
+- Java
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
